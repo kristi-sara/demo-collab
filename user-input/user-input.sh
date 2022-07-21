@@ -6,4 +6,4 @@ echo "Hello $name!"
 
 # Adding a line for Amanda
 # Kristi adding a line to show automerge 
-# This line is added by Amanda
+
