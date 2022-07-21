@@ -1,6 +1,6 @@
 echo "What is your name?"
 read name
-echo "Hello $name."
+echo "Hello $name!"
 # The 'read' command requests user input. 
 # We use '$' to recall the variable established by 'read'
 # This line is added by Amanda
