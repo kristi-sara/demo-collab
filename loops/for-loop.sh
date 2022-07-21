@@ -1,7 +1,7 @@
 # for-loop example
 # this for-loop outputs numbers
 
-for variable in 1 2 3 4 5 6
+for var in 1 2 3 4 5 6
 do
-	echo "output number $variable"
+	echo "output number $var"
 done
